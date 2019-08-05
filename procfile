@@ -1,1 +1,1 @@
-web: gunicorn hello:movie_api
+web: gunicorn hello:movies_api
